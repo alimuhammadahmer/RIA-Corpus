@@ -2,140 +2,51 @@
  {
   "predictions": [
    {
-    "result": [
-     {
-      "type": "labels",
-      "value": {
-       "end": 25,
-       "text": "2011",
-       "start": 21,
-       "labels": [
-        "YEAR"
-       ]
-      },
-      "origin": "automatic",
-      "to_name": "text",
-      "from_name": "label"
-     }
-    ]
+    "result": []
    }
   ],
   "data": {
-   "text": "Ma lõpetasin esimese kursuse 2011."
+   "text": "My name is Ahmer"
   }
  },
  {
   "predictions": [
    {
-    "result": [
-     {
-      "type": "labels",
-      "value": {
-       "end": 25,
-       "text": "2013",
-       "start": 21,
-       "labels": [
-        "YEAR"
-       ]
-      },
-      "origin": "automatic",
-      "to_name": "text",
-      "from_name": "label"
-     }
-    ]
+    "result": []
    }
   ],
   "data": {
-   "text": "Ma lõpetasin teise kursuse 2013."
+   "text": "I did my O-Levels in 2011"
   }
  },
  {
   "predictions": [
    {
-    "result": [
-     {
-      "type": "labels",
-      "value": {
-       "end": 22,
-       "text": "2017",
-       "start": 18,
-       "labels": [
-        "YEAR"
-       ]
-      },
-      "origin": "automatic",
-      "to_name": "text",
-      "from_name": "label"
-     }
-    ]
+    "result": []
    }
   ],
   "data": {
-   "text": "Ma sain bakalaureusekraadi aastal 2017."
+   "text": "I did my A-Levels in 2013"
   }
  },
  {
   "predictions": [
    {
-    "result": [
-     {
-      "type": "labels",
-      "value": {
-       "end": 19,
-       "text": "2021",
-       "start": 15,
-       "labels": [
-        "YEAR"
-       ]
-      },
-      "origin": "automatic",
-      "to_name": "text",
-      "from_name": "label"
-     },
-     {
-      "type": "labels",
-      "value": {
-       "end": 40,
-       "text": "Software Engineer",
-       "start": 13,
-       "labels": [
-        "DESIGNATION"
-       ]
-      },
-      "origin": "automatic",
-      "to_name": "text",
-      "from_name": "label"
-     }
-    ]
+    "result": []
    }
   ],
   "data": {
-   "text": "Ma liitusin MindTitaniga 2021."
+   "text": "I did BS in CS in 2017"
   }
  },
  {
   "predictions": [
    {
-    "result": [
-     {
-      "type": "labels",
-      "value": {
-       "end": 13,
-       "text": "Ahmer",
-       "start": 8,
-       "labels": [
-        "NAME"
-       ]
-      },
-      "origin": "manual",
-      "to_name": "text",
-      "from_name": "label"
-     }
-    ]
+    "result": []
    }
   ],
   "data": {
-   "text": "Minu nimi on Ahmer."
+   "text": "I joined MT in 2021 as a Software Engineer"
   }
  }
 ]
