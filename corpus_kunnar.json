@@ -2,7 +2,23 @@
  {
   "predictions": [
    {
-    "result": []
+    "result": [
+     {
+      "value": {
+       "start": 11,
+       "end": 17,
+       "text": "Kunnar",
+       "labels": [
+        "NAME"
+       ]
+      },
+      "id": "yLp1Zb5E3c",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+     }
+    ]
    }
   ],
   "data": {
