@@ -12,7 +12,38 @@
  {
   "predictions": [
    {
-    "result": []
+    "result": [
+     {
+      "id": "NBUMTTBEPP",
+      "from_name": "label",
+      "origin": "manual",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+       "start": 18,
+       "end": 23,
+       "labels": [
+        "Aadress"
+       ],
+       "text": "Eesti"
+      }
+     },
+     {
+      "id": "QKCTQAHZSP",
+      "from_name": "label",
+      "origin": "manual",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+       "start": 175,
+       "end": 184,
+       "labels": [
+        "Asutus"
+       ],
+       "text": "maa-ameti"
+      }
+     }
+    ]
    }
   ],
   "data": {
@@ -32,7 +63,38 @@
  {
   "predictions": [
    {
-    "result": []
+    "result": [
+     {
+      "id": "AWGQKABYXI",
+      "from_name": "label",
+      "origin": "manual",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+       "start": 0,
+       "end": 6,
+       "labels": [
+        "Aadress"
+       ],
+       "text": "Tartus"
+      }
+     },
+     {
+      "id": "WLXFBKXGEN",
+      "from_name": "label",
+      "origin": "manual",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+       "start": 101,
+       "end": 106,
+       "labels": [
+        "Aadress"
+       ],
+       "text": "Pärnu"
+      }
+     }
+    ]
    }
   ],
   "data": {
@@ -42,7 +104,23 @@
  {
   "predictions": [
    {
-    "result": []
+    "result": [
+     {
+      "id": "UPEFCUVGJN",
+      "from_name": "label",
+      "origin": "manual",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+       "start": 17,
+       "end": 25,
+       "labels": [
+        "Aadress"
+       ],
+       "text": "Tallinna"
+      }
+     }
+    ]
    }
   ],
   "data": {
@@ -52,7 +130,23 @@
  {
   "predictions": [
    {
-    "result": []
+    "result": [
+     {
+      "id": "EIFUGRCGVB",
+      "from_name": "label",
+      "origin": "manual",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+       "start": 0,
+       "end": 6,
+       "labels": [
+        "Aadress"
+       ],
+       "text": "Pärnus"
+      }
+     }
+    ]
    }
   ],
   "data": {
@@ -62,7 +156,38 @@
  {
   "predictions": [
    {
-    "result": []
+    "result": [
+     {
+      "id": "FNMBXDLBLA",
+      "from_name": "label",
+      "origin": "manual",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+       "start": 0,
+       "end": 6,
+       "labels": [
+        "Aadress"
+       ],
+       "text": "Tartus"
+      }
+     },
+     {
+      "id": "ECPZBSKLGK",
+      "from_name": "label",
+      "origin": "manual",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+       "start": 93,
+       "end": 98,
+       "labels": [
+        "Aadress"
+       ],
+       "text": "Tartu"
+      }
+     }
+    ]
    }
   ],
   "data": {
@@ -72,7 +197,23 @@
  {
   "predictions": [
    {
-    "result": []
+    "result": [
+     {
+      "id": "ADFBQJZNMV",
+      "from_name": "label",
+      "origin": "manual",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+       "start": 0,
+       "end": 9,
+       "labels": [
+        "Aadress"
+       ],
+       "text": "Tallinnas"
+      }
+     }
+    ]
    }
   ],
   "data": {
@@ -102,7 +243,38 @@
  {
   "predictions": [
    {
-    "result": []
+    "result": [
+     {
+      "id": "LFXFVAKNZG",
+      "from_name": "label",
+      "origin": "manual",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+       "start": 18,
+       "end": 23,
+       "labels": [
+        "Aadress"
+       ],
+       "text": "Eesti"
+      }
+     },
+     {
+      "id": "ZRMWFZUKDJ",
+      "from_name": "label",
+      "origin": "manual",
+      "to_name": "text",
+      "type": "labels",
+      "value": {
+       "start": 175,
+       "end": 184,
+       "labels": [
+        "Asutus"
+       ],
+       "text": "maa-ameti"
+      }
+     }
+    ]
    }
   ],
   "data": {
