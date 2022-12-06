@@ -2,7 +2,23 @@
  {
   "predictions": [
    {
-    "result": []
+    "result": [
+     {
+      "value": {
+       "start": 18,
+       "end": 33,
+       "text": "korteriomandiga",
+       "labels": [
+        "Name"
+       ]
+      },
+      "id": "J7VvcEoWuB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "manual"
+     }
+    ]
    }
   ],
   "data": {
